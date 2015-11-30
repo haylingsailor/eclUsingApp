@@ -6,4 +6,4 @@ To build:
 
     export ECLLIBHOME path/to/library
 
-    g++  main.cpp -lecl -lpthread -L $ECLLIBHOME/libecl -o eclUsingApp
+    g++  main.cpp -lecl -lpthread -L $ECLLIBHOME -o eclUsingApp

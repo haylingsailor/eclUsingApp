@@ -1,7 +1,7 @@
 #include <string>
 #include <iostream>
 
-#include "/home/ballingall/abTest/src/github.com/haylingsailor/libecl/elastic.h"
+#include "/home/ballingall/.gvm/pkgsets/go1.5.1/abTest/src/github.com/haylingsailor/libecl/elastic.h"
 
 int main() {
     int returnVal;
